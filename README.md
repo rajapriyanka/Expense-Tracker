@@ -27,7 +27,8 @@ The **Expense Tracker** is a simple and interactive web application that allows 
 
 ## 📸 Screenshots  
 ### 🔹 Main Interface  
-![Expense Tracker](images/expense-tracker.png) *(Add screenshot here)*  
+
+![Screenshot (395)](https://github.com/user-attachments/assets/836587c8-d0c4-43ef-bc32-8777d5fe8073)
 
 ---
 
