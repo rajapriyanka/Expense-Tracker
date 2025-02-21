@@ -5,7 +5,8 @@ The **Expense Tracker** is a simple and interactive web application that allows 
 
 🔹 **Tech Stack:** HTML, CSS, JavaScript  
 🔹 **Features:** Add/Delete expenses, real-time total calculation, local storage support  
-🔹 **Live Demo:** [Click Here](#) *([Add your deployment link here](https://rajapriyanka.github.io/Expense-Tracker/))*  
+🔹 **Live Demo:** [Click Here](https://rajapriyanka.github.io/Expense-Tracker/)  
+   *(Add your deployment link if needed)*
 
 ---
 
